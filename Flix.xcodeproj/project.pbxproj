@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B7DB52426FD592900089808 /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B7DB52326FD592900089808 /* MovieCell.swift */; };
 		0BEA9CF426FD49B000662D20 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BEA9CF326FD49B000662D20 /* AppDelegate.swift */; };
 		0BEA9CF626FD49B000662D20 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BEA9CF526FD49B000662D20 /* SceneDelegate.swift */; };
 		0BEA9CFB26FD49B000662D20 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BEA9CF926FD49B000662D20 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0B7DB52326FD592900089808 /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
 		0BEA9CF026FD49B000662D20 /* Flix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flix.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BEA9CF326FD49B000662D20 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0BEA9CF526FD49B000662D20 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				0BEA9CFE26FD49B200662D20 /* LaunchScreen.storyboard */,
 				0BEA9D0126FD49B200662D20 /* Info.plist */,
 				0BEA9D2326FD518000662D20 /* MoviesViewController.swift */,
+				0B7DB52326FD592900089808 /* MovieCell.swift */,
 			);
 			path = Flix;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0BEA9CF426FD49B000662D20 /* AppDelegate.swift in Sources */,
+				0B7DB52426FD592900089808 /* MovieCell.swift in Sources */,
 				0BEA9CF626FD49B000662D20 /* SceneDelegate.swift in Sources */,
 				0BEA9D2426FD518000662D20 /* MoviesViewController.swift in Sources */,
 			);
